@@ -1,1 +1,3 @@
-python-telegram-bot==20.7
+git add requirements.txt bot.py
+git commit -m "Downgrade python-telegram-bot to 20.3 for compatibility"
+git push
